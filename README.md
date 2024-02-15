@@ -14,7 +14,7 @@ Note: CSV files are too large to be uploaded on GitHub. Files have been uploaded
 
 Our research utilized the Jupyter Notebook (.ipynb) for easier analysis and visualzation. Please install Jupyter Notbook or use Google Colab, a free-online Jupyter Notebook, to open the ipynb files. 
 
-If you want to use other coding environemnts, open files using Jupyter Notbook or use Google Colab first then copy and paste the codes and files to your preferred coding environment (IDE etc.).
+If you want to use other coding environemnts, copy and paste the codes and files to your preferred coding environment (IDE etc.).
 
 # Python Libraries
 Our research utilizes various Python libraries that needs to be installed:
