@@ -12,7 +12,7 @@ The repository contains the following files:
 
 Note: CSV files are too large to be uploaded on GitHub. Files have been uploaded to our Google Drive link: https://drive.google.com/drive/folders/1LF-T2Wq7Yzg5h_xImviSUwuH3P_2oOr_?usp=sharing
 
-Our research utilized the Jupyter Notebook (.ipynb) for easier analysis and visualzation. Please install Jupyter Notbook or use Google Colab, a free-online Jupyter Notebook, to open the ipynb files. 
+Our research utilized the Jupyter Notebook (.ipynb) for easier analysis and visualization. Please install Jupyter Notbook or use Google Colab, a free-online Jupyter Notebook, to open the ipynb files. 
 
 If you want to use other coding environemnts, copy and paste the codes and files to your preferred coding environment (IDE etc.).
 
