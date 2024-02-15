@@ -1,7 +1,7 @@
 # Introduction
 Welcome to the GitHub repository pertaining to our journal: _Imputation of missing values in well log data using k-nearest neighbor collaborative filtering_.
 
-Our research utilizes the collaboritve filtering algorithm to make predictions of the missing well log data values. 
+Our research utilizes the k-nearest neighbor collaboritve filtering algorithm to make predictions of the missing well log data values. 
 
 # Files
 The repository contains the following files:
