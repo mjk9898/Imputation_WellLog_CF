@@ -8,7 +8,9 @@ The repository contains the following files:
 * Imputation_WellLog_CF.ipynb
 * WellLog_Visualization.ipynb
 * CF_Results.ipynb
-* Various csv files used in our research (Google Drive: https://drive.google.com/drive/folders/1LF-T2Wq7Yzg5h_xImviSUwuH3P_2oOr_?usp=sharing)
+* Various csv files used in our research
+
+Note: CSV files are too large to be uploaded on GitHub. Files have been uploaed to our Google Drive link: https://drive.google.com/drive/folders/1LF-T2Wq7Yzg5h_xImviSUwuH3P_2oOr_?usp=sharing
 
 Our research utilized the Jupyter Notebook (.ipynb) for easier analysis and visualzation. Please install Jupyter Notbook or use Google Colab, a free-online Jupyter Notebook, to open the ipynb files. 
 
