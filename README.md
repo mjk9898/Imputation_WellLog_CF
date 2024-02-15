@@ -28,3 +28,6 @@ If you use Google Colab, Google Colab already has built-in various Python module
 # Contact Information
 * Name: Min Jun Kim
 * Email: k101m208@snu.ac.kr
+
+# Acknowledgements
+The full public well log dataset used in our research can be found through the following link: https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition
