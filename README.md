@@ -31,3 +31,5 @@ If you use Google Colab, Google Colab already has built-in various Python module
 
 # Acknowledgements
 The full, public well log dataset used in our research can be found through the following link: https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition.git
+
+Our code was developed by referring to the following link: https://github.com/brendonhall/FORCE-2020-Lithology.git
