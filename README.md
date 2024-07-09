@@ -1,23 +1,25 @@
 # Introduction
 Welcome to the GitHub repository pertaining to our journal: _Imputation of missing values in well log data using k-nearest neighbor collaborative filtering_.
 
-Our research utilizes the k-nearest neighbor collaboritve filtering algorithm to make predictions of the missing well log data values. 
+Our research utilizes the k-nearest neighbor collaborative filtering algorithm to make predictions of the missing well log data values. 
 
 # Files
 The repository contains the following files:
 * Imputation_WellLog_CF.ipynb
 * WellLog_Visualization.ipynb
 * CF_Results.ipynb
+* CF_Results-Multiple.ipynb
+* Imputation_WellLog_CF_MultipleLogs.ipynb
 * Various csv files used in our research
 
 Note: CSV files are too large to be uploaded on GitHub. Files have been uploaded to our Google Drive link: https://drive.google.com/drive/folders/1LF-T2Wq7Yzg5h_xImviSUwuH3P_2oOr_?usp=sharing
 
-Our research utilized the Jupyter Notebook (.ipynb) for easier analysis and visualization. Please install Jupyter Notbook or use Google Colab, a free-online Jupyter Notebook, to open the ipynb files. 
+Our research utilized the Jupyter Notebook (.ipynb) for easier analysis and visualization. Please install Jupyter Notebook or use Google Colab, a free online Jupyter Notebook, to open the ipynb files. 
 
-If you want to use other coding environemnts, copy and paste the codes and files to your preferred coding environment (IDE etc.).
+If you want to use other coding environments, copy and paste the codes and files to your preferred coding environment (IDE etc.).
 
 # Python Libraries
-Our research utilizes various Python libraries that needs to be installed:
+Our research utilizes various Python libraries that need to be installed:
 * NumPy
 * Pandas
 * Matplotlib
